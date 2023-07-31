@@ -1,3 +1,7 @@
+# QA Engineer Intern_Assignment Round
+# By Prashant Kumar
+# 31/07/2023
+
 import requests
 
 def get_weather_data():
